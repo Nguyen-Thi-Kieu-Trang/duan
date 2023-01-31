@@ -1,0 +1,12 @@
+[31-Jan-2023 15:52:44 UTC] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /var/www/html/application/config/config.php on line 33
+[31-Jan-2023 15:52:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[31-Jan-2023 15:52:44 UTC] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /var/www/html/application/config/config.php on line 33
+[31-Jan-2023 15:52:44 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[31-Jan-2023 15:53:05 UTC] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /var/www/html/application/config/config.php on line 33
+[31-Jan-2023 15:53:05 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[31-Jan-2023 15:53:05 UTC] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /var/www/html/application/config/config.php on line 33
+[31-Jan-2023 15:53:05 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[31-Jan-2023 15:53:06 UTC] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /var/www/html/application/config/config.php on line 33
+[31-Jan-2023 15:53:06 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[31-Jan-2023 15:53:06 UTC] PHP Parse error:  syntax error, unexpected 've' (T_STRING) in /var/www/html/application/config/config.php on line 33
+[31-Jan-2023 15:53:06 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
